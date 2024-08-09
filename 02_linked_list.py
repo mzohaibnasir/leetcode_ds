@@ -694,6 +694,9 @@ def addTwoNumbers(linkedO, linkedS):
     return h3.next
 
 
+def 
+
+
 if __name__ == "__main__":
     l = linkedList()
     # l.deletion(2)
